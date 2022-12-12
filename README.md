@@ -1,16 +1,7 @@
 # groceryapp
 
-A new Flutter project.
+UI for a grocery store application using FLutter
 
-## Getting Started
+## Description
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This app is a model of a grocery store that includes a home page, the Main page where items are displayed, and an option to add items to a cart. This app also has a cart where all the items added by the user in the cart are displayed. Screenshots are available in "screenshots" folder.
